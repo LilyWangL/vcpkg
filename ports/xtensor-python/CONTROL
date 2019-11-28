@@ -1,0 +1,5 @@
+Source: xtensor-python
+Version: 0.23.1
+Homepage: https://github.com/xtensor-stack/xtensor-python
+Description: Python bindings for the xtensor C++ multi-dimensional array library. xtensor is a C++ library for multi-dimensional arrays enabling numpy-style broadcasting and lazy computing. xtensor-python enables inplace use of numpy arrays in C++
+Build-Depends: xtl, xtensor, pybind11, numpy
